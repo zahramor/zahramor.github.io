@@ -12,7 +12,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: #000;
-  border-top: mix(#fff, $background-color, 20%);
+  border-top: mix(#000, $background-color, 20%);
 
   footer {
     @include container;
@@ -35,7 +35,7 @@
   }
 
   .fa {
-    color: mix(#fff, $gray, 25%);
+    color: mix(#000, $gray, 25%);
   }
 }
 
