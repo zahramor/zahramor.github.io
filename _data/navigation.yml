@@ -1,0 +1,12 @@
+# main links links
+main:
+        
+  - title: "Network neuroscience"
+    url: /netneuro/
+    
+  - title: "Neuro-AI"
+    url: /neuroai/
+    
+  - title: "Climbing"
+    url: /climbing/
+
