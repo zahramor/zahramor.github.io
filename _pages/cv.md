@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!---
 {% include base_path %}
 
 Education
@@ -84,7 +84,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!---
+
 Talks
 ------
   <ul>{% for post in site.talks %}
