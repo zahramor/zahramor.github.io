@@ -6,13 +6,13 @@
   @include full();
   @include clearfix;
   margin-top: 3em;
-  color: mix(#000, $gray, 25%);
+  color: mix(#a9a9a9, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: #000;
-  border-top: mix(#000, $background-color, 20%);
+  background-color: #a9a9a9;
+  border-top: mix(#a9a9a9, $background-color, 20%);
 
   footer {
     @include container;
@@ -35,7 +35,7 @@
   }
 
   .fa {
-    color: mix(#000, $gray, 25%);
+    color: mix(#a9a9a9, $gray, 25%);
   }
 }
 
