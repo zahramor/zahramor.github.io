@@ -8,13 +8,13 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Site Settings
 locale                   : "en-UK"
-title                    : "Zahra Moradimanesh"
+title                    : "Ane Berasategi"
 title_separator          : "-"
-name                     : &name "Zahra Moradimanesh"
+name                     : &name "Ane Berasategi"
 description              : &description "academic website"
-url                      : https://zahramor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anebz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zahramor/zahramor.github.io"
+repository               : "anebz/anebz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &zahra_mor
+  username               : &aberasategi
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zahra Moradimanesh"
+  name             : "Ane Berasategi"
   avatar           : "profile.png"
-  bio              : "ML Engineer, Comp Neuro PhD, Rock Climber."
+  bio              : "Computerlinguistics master student, reader, amateur flute player, intermediate hipster."
   location         : 
   employer         :
   googlescholar    : 
-  email            : "zahra.moradimanesh@gmail.com"
+  email            : "ane.berasategi@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zahramor"
+  github           : "anebz"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "anebz"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zahra_mor"
+  twitter          : "aberasategi"
   vine             :
   weibo            :
   xing             :
