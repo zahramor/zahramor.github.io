@@ -4,6 +4,7 @@ Here I summarize and write personal reviews on papers and books I read, just to 
   
 <p align="center"><img align="center" src="https://zahramor.github.io/images/intersection.png"></p>
 There is also a section on <b>climbing</b> lessons I had so far, in a form of How-to video series. 
-<br>
-[Forked from: https://github.com/academicpages/academicpages.github.io]
 </p>
+
+[Template source: https://github.com/academicpages/academicpages.github.io]
+
