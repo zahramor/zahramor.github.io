@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Site Settings
 locale                   : "en-UK"
-title                    : "Zahra Moradimanesh"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zahra Moradimanesh"
 description              : &description "Personal Archive"
