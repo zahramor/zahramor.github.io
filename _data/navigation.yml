@@ -6,6 +6,9 @@ main:
     
   - title: "Neuro-AI"
     url: /neuroai/
+  
+  - title: "Basics"
+    url: /basics/
     
   - title: "Climbing"
     url: /climbing/
