@@ -1,10 +1,10 @@
 # main links links
 main:
         
-  - title: "Network neuroscience"
+  - title: "Netneuro"
     url: /netneuro/
     
-  - title: "Neuro-AI"
+  - title: "NeuroAI"
     url: /neuroai/
   
   - title: "Basics"
