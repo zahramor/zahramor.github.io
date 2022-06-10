@@ -8,5 +8,5 @@ tags:
   - Flaschenzug
 ---
    <iframe height="350" width="600"
-      src="[https://www.youtube.com/embed/F6m0ghjadlw](https://www.youtube.com/watch?v=w2BuZ2B-iG4)">
+      src="https://www.youtube.com/watch?v=w2BuZ2B-iG4">
    </iframe>
