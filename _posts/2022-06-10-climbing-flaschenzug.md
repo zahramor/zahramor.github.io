@@ -4,7 +4,6 @@ date: 2022-06-10
 permalink: /posts/2022/06/climbing/Flaschenzug
 tags:
   - climbing
-  - rescue
   - pulley-systems
 ---
 
