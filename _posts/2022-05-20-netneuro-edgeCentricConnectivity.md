@@ -8,7 +8,7 @@ tags:
   - brain-connectivity
   - paper-review
 ---
-<p align="justify" markdown="1"> 
+<p align="justify"> 
 
 </p>
 
