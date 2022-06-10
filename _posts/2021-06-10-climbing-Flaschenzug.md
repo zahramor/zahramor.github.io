@@ -1,4 +1,4 @@
-   ---
+---
 title: 'Flaschenzug pulley with Petzl jumar'
 date: 2021-06-10
 permalink: /posts/2022/06/climbing/Flaschenzug
