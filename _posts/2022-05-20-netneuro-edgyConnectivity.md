@@ -4,9 +4,7 @@ date: 2022-05-20
 permalink: /posts/2021/05/netneuro/edgy-connectivity/
 tags:
   - netneuro
-  - network-neuroscience
-  - brain-connectivity
-  - paper-review
+  - paper
 ---
 
 
