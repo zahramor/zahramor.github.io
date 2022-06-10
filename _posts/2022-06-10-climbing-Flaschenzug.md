@@ -7,6 +7,4 @@ tags:
   - pulley-systems
   - Flaschenzug
 ---
-   <iframe height="350" width="600"
-      src="https://www.youtube.com/watch?v=w2BuZ2B-iG4">
-   </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2BuZ2B-iG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
