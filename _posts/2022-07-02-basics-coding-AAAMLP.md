@@ -7,6 +7,6 @@ tags:
   - coding
 ---
 
-<p align="justify">I've just finished Abishek's book on how to approch ML projects, and I enjoyed the way it reorganized lots of importnt ML concepts in my mind.</p>
+<p align="justify">I've just finished Abishek's book on how to approch ML projects, and I enjoyed the way it reorganized lots of important ML concepts in my mind.</p>
 
 <p align="justify"></p>
