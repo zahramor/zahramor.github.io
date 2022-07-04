@@ -1,21 +1,21 @@
 # main links links
-main:
-        
-  - title: "Comp neuro"
+primary:
+   
+  - text: "Comp neuro"
     links:
-      - title: "Netneuro"
-        url: /netneuro/
-      - title: "NeuroAI"
-        url: /neuroai/
+      - text: "Netneuro"
+        href: /netneuro/
+      - text: "NeuroAI"
+        href: /neuroai/
       
-  - title: "ML"
-    url: /ml/
+  - text: "ML"
+    href: /ml/
     
-  - title: "Basics"
-    url: /basics/
+  - text: "Basics"
+    href: /basics/
     
-  - title: "Climbing"
-    url: /climbing/
+  - text: "Climbing"
+    href: /climbing/
     
-  - title: "CV"
-    url: /cv/
+  - text: "CV"
+    href: /cv/
