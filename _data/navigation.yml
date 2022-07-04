@@ -3,10 +3,10 @@ main:
         
   - title: "Comp neuro"
     subfolderitems:
-    - page: "Netneuro"
-      url: /netneuro/
-    - page: "NeuroAI"
-      url: /neuroai/
+        - page: "Netneuro"
+          url: /netneuro/
+        - page: "NeuroAI"
+          url: /neuroai/
       
   - title: "ML"
     url: /ml/
