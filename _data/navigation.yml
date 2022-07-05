@@ -1,11 +1,13 @@
 # main links links
 main:
-   
-  - title: "Netneuro"
-    url: /netneuro/
+  
+  - title: Control
+    children:
+      - title: "Netneuro"
+        url: /netneuro/
     
-  - title: "NeuroAI"
-    url: /neuroai/
+      - title: "NeuroAI"
+        url: /neuroai/
     
   - title: "ML"
     url: /ml/
