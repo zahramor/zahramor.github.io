@@ -1,6 +1,12 @@
 # main links links
 main:
-  
+  - title: "Snippets"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
+      
   - title: "Netneuro"
     url: /netneuro/
     
