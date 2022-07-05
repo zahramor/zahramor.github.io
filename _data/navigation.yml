@@ -1,11 +1,11 @@
 # main links links
 main:
-
-  - title: "Comp neuro"
-      - title: "Netneuro"
-        url: /netneuro/
-      - title: "NeuroAI"
-        url: /neuroai/
+   
+  - title: "Netneuro"
+    url: /netneuro/
+    
+  - title: "NeuroAI"
+    url: /neuroai/
     
   - title: "ML"
     url: /ml/
